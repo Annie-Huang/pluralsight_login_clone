@@ -111,7 +111,11 @@ h6 {
     border: none;
     height: 1px;
     background: #aaa;
+}
 
+#signin .or span {
+    color: #ccc;
+    padding: 0 0.8rem;
 }
 
 /* Button */
