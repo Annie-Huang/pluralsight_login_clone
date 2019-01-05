@@ -100,6 +100,10 @@ h6 {
     transition: all 0.5s;   /* let hover over color transitinoal rather than just suddently change color */
 }
 
+.primary-btn:hover {
+    background-color: #ff7b39;
+}
+
 /* Media Queries */
 @media (min-width: 1200px) {
     /* When it is bigger screen, make the left and right radio 4:6 */
