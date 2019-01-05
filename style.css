@@ -118,6 +118,21 @@ h6 {
     padding: 0 0.8rem;
 }
 
+
+/* Footer */
+#main-footer {
+    color: #ccc;
+    text-align: center;
+    font-size: 0.8rem;
+    max-width: 80%;
+    padding-top: 5rem;
+}
+
+#main-footer a {
+    color: #f96816;
+    text-decoration: underline;
+}
+
 /* Button */
 .primary-btn {
     padding: 0.7rem 1rem;
