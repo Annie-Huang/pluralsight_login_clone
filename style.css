@@ -99,6 +99,21 @@ h6 {
     font-size: 0.9rem;
 }
 
+#signin .or {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1.2rem;
+    align-items: center;
+}
+
+#signin .or .bar {
+    flex: auto; /* flex: auto will make it auto grow to fit teh space available */
+    border: none;
+    height: 1px;
+    background: #aaa;
+
+}
+
 /* Button */
 .primary-btn {
     padding: 0.7rem 1rem;
