@@ -118,6 +118,17 @@ h6 {
     padding: 0 0.8rem;
 }
 
+/* Showcase */
+#showcase {
+    background: url('img/login-bg.jpg') no-repeat center center / cover;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+}
 
 /* Footer */
 #main-footer {

@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=wIx1O5Y5EB4
 https://codepen.io/bradtraversy/pen/MzyJqw
 
 https://image.ibb.co/hW1YHq/login-logo.png
+https://image.ibb.co/cO9Lxq/login-bg.jpg
 
 https://fonts.google.com/
 https://fonts.google.com/?selection.family=Roboto:300
@@ -28,3 +29,8 @@ $ git push -u origin master
 
 Emmet:
 input:text + tab		--> <input type="text" name="" id="">
+
+Usually this will make the element in the center of the page:
+    display: flex;
+    justify-content: center;
+    align-items: center;
