@@ -34,3 +34,13 @@ h6 {
 #right {
     flex: 1;
 }
+
+/* Sign In */
+#signin {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    padding-bottom: 1rem;
+}
