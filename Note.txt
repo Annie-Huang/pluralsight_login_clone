@@ -8,6 +8,8 @@ https://image.ibb.co/hW1YHq/login-logo.png
 https://fonts.google.com/
 https://fonts.google.com/?selection.family=Roboto:300
 
+https://www.w3schools.com/css/css3_box-sizing.asp
+
 #################################################
 
 D:\react\pluralsight_login_clone>git init
