@@ -222,5 +222,17 @@ h6 {
         justify-content: start;
         margin-top: 4vh;
     }
+
+    #signin .logo {
+        margin-bottom: 2vh;
+    }
+
+    #signin .text-input {
+        margin-bottom: 0.7rem;
+    }
+
+    #main-footer {
+        padding-top: 1rem;
+    }
 }
 
