@@ -130,6 +130,18 @@ h6 {
     text-align: center;
 }
 
+#showcase .showcase-text {
+    font-size: 3rem;
+    width: 100%;
+    color: #fff;
+    margin-bottom: 1.5rem;
+}
+
+#showcase .secondary-btn {
+    width: 60%;
+    margin: auto; /* Put the button into the middle */
+}
+
 /* Footer */
 #main-footer {
     color: #ccc;

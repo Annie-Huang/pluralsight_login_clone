@@ -34,3 +34,9 @@ Usually this will make the element in the center of the page:
     display: flex;
     justify-content: center;
     align-items: center;
+
+But not quite sure ....
+#showcase .secondary-btn {
+    width: 60%;
+    margin: auto; 	<< Why this will put button into the middle
+}
