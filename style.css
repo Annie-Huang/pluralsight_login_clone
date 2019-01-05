@@ -76,5 +76,15 @@ h6 {
 
 }
 
+/* Media Queries */
+@media (min-width: 1200px) {
+    /* When it is bigger screen, make the left and right radio 4:6 */
+    #left {
+        flex: 4;
+    }
 
+    #right {
+        flex: 6;
+    }
+}
 
