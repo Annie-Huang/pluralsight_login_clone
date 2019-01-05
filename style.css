@@ -89,6 +89,16 @@ h6 {
 .links {
     width: 60%;
 }
+
+#signin .links a {
+    color: #fff;
+    text-decoration: none; /* no underline for the link */
+    margin-bottom: 1rem;
+    display: block; /* blocks so each link is on it's own line */
+    text-align: center;
+    font-size: 0.9rem;
+}
+
 /* Button */
 .primary-btn {
     padding: 0.7rem 1rem;
